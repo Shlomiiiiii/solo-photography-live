@@ -1,0 +1,12 @@
+.env
+.env*.local
+.firebase
+.next
+dist
+node_modules
+coverage
+*.log
+firebase-debug.log
+firestore-debug.log
+storage-debug.log
+
